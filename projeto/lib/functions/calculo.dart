@@ -1,1 +1,0 @@
-// TODO: Criar função de calculo da soma dos dados
