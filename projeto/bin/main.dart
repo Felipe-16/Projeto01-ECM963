@@ -1,6 +1,6 @@
-import 'package:projeto/jogo/jogo.dart';
+import 'package:projeto/functions/jogo.dart';
 
 void main() {
-  Jogo().jogo();
+  jogo();
 }
 
